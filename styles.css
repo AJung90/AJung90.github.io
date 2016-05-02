@@ -1,0 +1,23 @@
+#info {background-image: url("tennisball.jpg");
+		font-size: 25px;}
+
+body {background-color: azure;
+		margin: 10px;
+		font-family: big caslon;}
+
+a:visited {color: firebrick;}
+
+.accomplishments:hover {color: blue;}
+
+h1 {font-family: copperplate;
+	font-size: 75px;
+	border-style: groove;
+	padding: 10px;}
+
+.pic {display: block;
+		margin-left: auto;
+		margin-right: auto;}
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 125%;}
