@@ -1,0 +1,25 @@
+#nav {	
+  height: 100px;
+}
+
+.section {
+	height: 200px;
+}
+
+.brand-logo {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#nav-mobile {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.paragraph {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
